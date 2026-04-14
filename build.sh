@@ -1,0 +1,1 @@
+gcc cpy/main.c -o cpy

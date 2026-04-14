@@ -1,2 +1,2 @@
 # cpy
-a small python interpreter in cpp
+a small python interpreter in c
