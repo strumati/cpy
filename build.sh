@@ -1,1 +1,1 @@
-gcc src/main.c -o cpy
+gcc src/main.c py/py.c -o cpy
