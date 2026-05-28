@@ -1,2 +1,2 @@
 # cpy
-a small python interpreter in c with multitheards
+a small python interpreter in c with multithreads
