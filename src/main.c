@@ -3,10 +3,6 @@
 #include <string.h>
 
 int main(int argc, char* argv[]) {
-    char json[100];
-
-    scanf("%s",json);
-    printf("%s",json);
 
     char line1[] = "x = 2";
     char line2[] = "print(x)";
