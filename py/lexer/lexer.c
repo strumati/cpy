@@ -1,0 +1,2 @@
+enum LineType {SET_VARIABLE, EXECUTE_FUNCTION};
+
